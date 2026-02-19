@@ -4,7 +4,8 @@ description: Guide direct observation methodology for problem diagnosis, moving 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4075
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - genba-diagnostic
 - writing
